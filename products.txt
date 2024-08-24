@@ -1,0 +1,69 @@
+ index.html
+ <div class="products">
+
+            <div class="product">
+                <img src="tenis adidas1.png" alt>
+                <h3>Tênis Velcro Estilo Casual</h3>
+                <p>Tênis bonito e confortável para ocasiões casuais e
+                    sociais</p>
+                <p>R$ 300,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+            <div class="product">
+                <img src="tenis adidas2.png" alt>
+                <h3>Tênis Skate</h3>
+                <p>Tênis resistente, esportivo e muito duradouro</p>
+                <p>R$ 450,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+            <div class="product">
+                <img src="tenis adidas3.png" alt>
+                <h3>Tênis Feminino Casual Largo</h3>
+                <p>Tênis na promoção casual bonito e moderno</p>
+                <p>R$ 240,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+        </div>
+        <div class="products">
+
+            <div class="product">
+                <img src="tenis adidas4.png" alt>
+                <h3>Tênis Corrida Robusto Creme</h3>
+                <p>Tênis bonito e confortável para ocasiões casuais e
+                    sociais</p>
+                <p>R$ 300,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+            <div class="product">
+                <img src="tenis adidas5.png" alt>
+                <h3>Tênis Corrida Rosa</h3>
+                <p>Tênis resistente, esportivo e muito duradouro</p>
+                <p>R$ 450,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+            <div class="product">
+                <img src="tenis adidas6.png" alt>
+                <h3>Tênis Corrida Casual</h3>
+                <p>Tênis na promoção casual bonito e moderno</p>
+                <p>R$ 240,00</p>
+                <button class="btn">Adicionar ao carrinho</button>
+            </div>
+        </div>
+        promocao.html<div class="products">
+
+        <div class="product">
+            <img src="tenis promocao (1).png" alt>
+            <h3>Tênis Estiloso Atualizado</h3>
+            <p>Tênis bonito e incrível para ocasiões casuais e
+                sociais</p>
+            <p>R$ 100,00</p>
+        </div>
+        <div class="product">
+            <img src="tenis promocao 2.png" alt>
+            <h3>Tênis Feminino Patricinha</h3>
+            <p>Tênis resistente, lindo e muito duradouro</p>
+            <p>R$ 250,00</p>
+        </div>
+        contato.html
+        
+       
